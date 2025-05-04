@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "bundleIdentifier": "com.visualdynamics.AppAlertExample",
+    "bundleId": "com.visualdynamics.AppAlertExample",
     "title": "App Alert",
     "text:" "Warning: There is an bug in the app and I am working on it...",
     "confirmLabel": "OK"
