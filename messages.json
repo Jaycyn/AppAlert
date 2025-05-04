@@ -3,7 +3,7 @@
     "id": 1,
     "bundleId": "com.visualdynamics.AppAlertExample",
     "title": "App Alert",
-    "text:" "Warning: There is an bug in the app and I am working on it...",
+    "text": "Warning: There is an bug in the app and I am working on it...",
     "confirmLabel": "OK"
   }
 ]
